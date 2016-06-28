@@ -7,10 +7,35 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/bgColorText" android:id="@+id/LayoutMain"
     tools:context="corp.app.simplicity.com.maryadi_chess.MainActivity">
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+    <TableLayout android:id="@+id/LayoutTopTitle"
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        >
+        <TableRow android:gravity="center_vertical">
+            <ViewSwitcher android:id="@+id/ImageTurnOpp"
+                android:layout_height="wrap_content" android:layout_width="wrap_content"
+                android:layout_marginLeft="8dip" android:layout_marginRight="8dip"
+                >
+                <ImageView
+                    android:src="@drawable/turnblack"
+                    android:layout_height="wrap_content" android:layout_width="wrap_content"
+                    />
+                <ImageView
+                    android:src="@drawable/turnwhite"
+                    android:layout_height="wrap_content" android:layout_width="wrap_content"
+                    />
+            </ViewSwitcher>
+            <TextView android:id="@+id/TextViewClockTimeOpp"
+                android:layout_height="wrap_content" android:layout_width="50dip"
+                android:text="00:00"
+                style="@style/MyNormalTextStyle"
+                />
+            <TextView android:id="@+id/TextViewTopTitle"
+                android:layout_width="wrap_content" android:layout_height="wrap_content"
+                style="@style/MyNormalTextStyle"
+                android:text="Title..."
+                />
+        </TableRow>
+    </TableLayout>
 </RelativeLayout>
