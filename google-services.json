@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "284492814222",
+    "project_id": "maryadichess"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284492814222:android:7661a01f3df1ddbb",
+        "android_client_info": {
+          "package_name": "corp.app.simplicity.com.maryadi_chess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXJjv-pts7ITWg6KVRh7aQ6zHJLKJAZQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
