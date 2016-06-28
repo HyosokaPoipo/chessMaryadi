@@ -2,7 +2,6 @@ package corp.app.simplicity.com.maryadi_chess.tools;
 
 //import com.larvalabs.svgandroid.SVG;
 
-import jwtc.chess.board.ChessBoard;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;

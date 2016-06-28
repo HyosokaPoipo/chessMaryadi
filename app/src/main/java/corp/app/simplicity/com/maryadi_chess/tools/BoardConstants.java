@@ -1,6 +1,5 @@
 package corp.app.simplicity.com.maryadi_chess.tools;
 
-import jwtc.chess.*;
 // "split" object for ChessBoard. contains the constants of the board object
 
 public class BoardConstants 
