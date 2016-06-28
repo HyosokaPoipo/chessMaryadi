@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="levels_ply">
+        <item>1 ply</item>
+        <item>2 ply</item>
+        <item>3 ply</item>
+        <item>4 ply</item>
+        <item>5 ply</item>
+        <item>6 ply</item>
+        <item>7 ply</item>
+        <item>8 ply</item>
+        <item>9 ply</item>
+        <item>10 ply</item>
+    </string-array>
+
+    <string-array name="levels_time">
+        <item>@string/choice_level_1</item>
+        <item>@string/choice_level_2</item>
+        <item>@string/choice_level_3</item>
+        <item>@string/choice_level_4</item>
+        <item>@string/choice_level_5</item>
+        <item>@string/choice_level_6</item>
+        <item>@string/choice_level_7</item>
+        <item>@string/choice_level_8</item>
+        <item>@string/choice_level_9</item>
+        <item>@string/choice_level_10</item>
+    </string-array>
+</resources>

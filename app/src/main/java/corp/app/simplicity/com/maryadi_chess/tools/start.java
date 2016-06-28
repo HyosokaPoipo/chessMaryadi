@@ -36,11 +36,7 @@ import java.util.Locale;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import jwtc.android.chess.ics.*;
-import jwtc.android.chess.puzzle.practice;
-import jwtc.android.chess.puzzle.puzzle;
-import jwtc.android.chess.tools.pgntool;
-import jwtc.chess.JNI;
+
 
 public class start extends AppCompatActivity {
 

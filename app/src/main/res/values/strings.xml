@@ -1,3 +1,113 @@
 <resources>
     <string name="app_name">Maryadi_Chess</string>
+    <string name="button_play">Play</string>
+    <string name="button_undo">Undo</string>
+    <string name="button_ok">OK</string>
+    <string name="button_menu">Menu</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="button_close">Close</string>
+    <string name="button_save">Save</string>
+    <string name="button_save_copy">Save copy</string>
+    <string name="button_new">New</string>
+    <string name="button_show">Show</string>
+    <string name="button_jump">Jump to #</string>
+
+
+
+    <string name="options_play_human">Human vs Human</string>
+    <string name="options_play_android">Human vs Android</string>
+    <string name="options_play_white">White</string>
+    <string name="options_play_black">Black</string>
+    <string name="options_960">Chess 960 - Fischer Random</string>
+    <string name="options_load_database">Load openings database</string>
+    <string name="options_auto_flip">Auto flip board</string>
+    <string name="options_flip">Flip board</string>
+    <string name="options_setup">Setup board</string>
+    <string name="options_show_moves">Show moves</string>
+
+
+
+    <string name="title_challenge">Challenge</string>
+    <string name="title_loading">Loading&#8230;</string>
+    <string name="title_error">Error</string>
+    <string name="title_offers_abort">Abort request</string>
+    <string name="title_offers_takeback">Take back request</string>
+    <string name="title_offers_draw">Draw request</string>
+    <string name="title_offers_adjourn">Adjourn request</string>
+    <string name="title_pick_level">Pick playing level</string>
+    <string name="title_pick_wakelock">Pick wake lock option</string>
+    <string name="title_info">Info</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="title_annotate">Annotate</string>
+    <string name="title_save_game">Save game</string>
+    <string name="title_options">Options</string>
+    <string name="title_delete_game">Delete game</string>
+    <string name="title_notice">Notice</string>
+    <string name="title_pick_promo">Pick promotion piece</string>
+    <string name="title_castle">Castle?</string>
+    <string name="title_pick_en_passant">En-passant file</string>
+    <string name="title_pick_colorscheme">Choose color</string>
+    <string name="title_pick_playmode">Choose play mode</string>
+    <string name="title_create_new_line">Create new line?</string>
+    <string name="title_chess960_manual_random">Chess 960 :: Manual position nr or random?</string>
+    <string name="title_edit_or_delete">Edit or delete?</string>
+    <string name="title_edit_command">Edit command</string>
+    <string name="title_ics_mode_idle">Idle</string>
+    <string name="title_ics_mode_play">Play</string>
+    <string name="title_ics_mode_watch">Watch</string>
+    <string name="title_ics_mode_examine">Examine</string>
+    <string name="title_ics_mode_puzzle">Puzzle</string>
+    <string name="title_ics_mode_endgame">Endgame</string>
+    <string name="title_installing">Installing</string>
+    <string name="title_puzzle_jump">Jump to puzzle number</string>
+
+
+
+       <string name="err_sd_not_mounted">
+    In order to process your request, your SD-card needs to be mounted.
+    </string>
+    <string name="err_send_email">
+    E-mail could not be created.
+    </string>
+    <string name="err_load_fen">FEN chess position could not be loaded</string>
+    <string name="err_load_pgn">PGN chess history could not be loaded</string>
+    <string name="err_no_clip_text">There is no text on the clip board</string>
+    <string name="err_install_barcode_scanner">Please install Barcode scanner (ZXing)</string>
+    <string name="err_chess960_position_range">Invalid position, enter a number between 0 and 960</string>
+    <string name="err_chess960_postion_format">Invalid position, enter a number</string>
+    <string name="err_puzzle_jump">Invalid puzzle number</string>
+    <string name="err_saving_game">Error saving game to chessgamesonline.pgn</string>
+    <string name="err_copy_clipboard">Error during copy to ClipBoard</string>
+
+
+
+    <string name="level_format">Level: %s</string>
+    <string name="choice_level_1">1 sec</string>
+    <string name="choice_level_2">2 sec </string>
+    <string name="choice_level_3">4 sec</string>
+    <string name="choice_level_4">8 sec (average) </string>
+    <string name="choice_level_5">10 sec</string>
+    <string name="choice_level_6">20 sec</string>
+    <string name="choice_level_7">30 sec (experienced) </string>
+    <string name="choice_level_8">1 minute</string>
+    <string name="choice_level_9">5 minutes</string>
+    <string name="choice_level_10">15 minutes</string>
+    <string name="choice_queen">Queen</string>
+    <string name="choice_rook">Rook</string>
+    <string name="choice_bishop">Bishop</string>
+    <string name="choice_knight">Knight</string>
+    <string name="choice_match_rated">Rated</string>
+    <string name="choice_match_unrated">Unrated</string>
+    <string name="choice_clock_num_minutes">%d minutes</string>
+    <string name="choice_manually">Manually</string>
+    <string name="choice_random">Random</string>
+    <string name="choice_edit">Edit</string>
+    <string name="choice_delete">Delete</string>
+
+
+
+    <string name="menu_new">New Game</string>
 </resources>
